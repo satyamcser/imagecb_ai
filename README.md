@@ -1,1 +1,1 @@
-# imagecb_ai
+# imageai_cb
